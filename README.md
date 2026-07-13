@@ -26,11 +26,10 @@ This project demonstrates how to build an image classification model using Googl
 ```text
 Cats-vs-Dogs-Image-Classifier
 │
-├── Cats_vs_Dogs_Classifier.ipynb
+├── Cats_vs_Dogs_Classifier.py
 ├── keras_Model.h5
 ├── labels.txt
 ├── Test_Image.png
-├── Python_Output.png
 └── README.md
 ```
 
@@ -66,14 +65,6 @@ Cats-vs-Dogs-Image-Classifier
 
 ---
 
-## 🖥 Output Preview
-
-<p align="center">
-  <img src="Python_Output.png" width="700">
-</p>
-
----
-
 ## ▶️ How to Run
 
 1. Open **Cats_vs_Dogs_Classifier.ipynb** in Google Colab.
@@ -97,6 +88,4 @@ Confidence Score: 0.94705564
 
 ## 👩🏻‍💻 Author
 
-**Sama Alzahrani**
-
-Computer Engineering Student
+**Rahaf Al-Ghamdi**
